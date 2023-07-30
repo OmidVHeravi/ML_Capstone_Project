@@ -13,28 +13,28 @@ The challenge requires the data scientists to best predict the label column, or 
 
 ### Challenge Roadmap
 
-** Understanding the Dataset **
+**Understanding the Dataset**
  * Data Shape 
  * Skew 
  * Mean, STD deviation, Max, etc. 
  
-** Data Visualization **
+**Data Visualization**
  * Scatter Plots
  * Correlation
  * Density Plots
  
-** Data Processing ** 
+**Data Processing** 
  * Transformation
  * One-Hot encoding
  * Train/Test Data preparation
  
-** Model Evalaution **
+**Model Evalaution**
  * Algorithm implementations
  * Model Evaluations
  * Model Predicitons
  * Model Analysis
  
-** Appendix **
+**Appendix**
  * Conclusion
  * Personal Thoughts
  * Thanks and Appreciations
